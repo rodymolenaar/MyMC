@@ -229,6 +229,9 @@ fieldset[disabled] .navbar-grey .btn-link:focus {
 .navbar-grey .dropdown-menu > li > a {
   color: #555;
 }
+.navbar-default {
+  background: #fff;
+}
 .navbar-default .navbar-brand {
   color: #565656;
 }
@@ -320,4 +323,22 @@ fieldset[disabled] .navbar-default .btn-link:hover,
 .navbar-default .btn-link[disabled]:focus,
 fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
+}
+.staff-member {
+  height: 150px;
+  width: 150px;
+  padding-top: 100px;
+  display: inline-block;
+  margin-right: 9px;
+  margin-bottom: 20px;
+}
+.staff-name {
+  background: rgba(0,0,0,.3);
+  height: 50px;
+  padding: 15px 10px;
+  min-width: 100%;
+}
+.staff-name span {
+  color: #fff;
+  font-size: 15px;
 }
