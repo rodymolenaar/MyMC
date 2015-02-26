@@ -8,6 +8,7 @@
 
 body{
   font-family: 'Open Sans', sans-serif;
+  background: #f1f1f1;
 }
 
 /* Navbar and homepage styles*/
@@ -341,4 +342,27 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .staff-name span {
   color: #fff;
   font-size: 15px;
+}
+.carousel-inner > .item > iframe{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  line-height: 1;
+}
+.vote-item {
+  min-width: 100%;
+  min-height: 500px;
+  border: 0px solid transparent;
+}
+.vote-name {
+  color: #1CC7E3;
+}
+.server-name-card {
+font-weight: 600;
+text-align: center;
+}
+.bottom .nav > li  {
+position: relative;
+display: block;
+padding: 10px 15px;
 }
