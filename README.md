@@ -18,7 +18,7 @@ Have a bug or an issue with this template? Open an issue or send us a message on
 
 ## Creator
 
-MaterialCraft was created by and is maintained by **Rody Molenaar** from [Xtrada Nederland] (https://xtrada.nl/en/).
+MyMC is maintained by **Rody Molenaar** from [Xtrada Nederland] (https://xtrada.nl/en/).
 
 * https://twitter.com/rodymolenaar
 * https://github.com/rodymol123
