@@ -1,6 +1,8 @@
 # MyMC
 Free Bootstrap template for Minecraft servers.
 
+[Click here for a demo] (http://rodymol123.github.io/MyMC/)
+
 ##Pages
 
 * Homepage
