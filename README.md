@@ -1,31 +1,28 @@
 # MyMC
 Free Bootstrap template for Minecraft servers.
 
-[Click here for a demo] (http://rodymol123.github.io/MyMC/)
+Click [here](http://rodymol123.github.io/MyMC/) for a demo.
 
-##Pages
+## Pages
 
 * Homepage
 * Rules
 * Staff
 * Vote
-* (+ link to your servershop)
-
-## Screenshots
-![Example](https://xtrada.nl/dist/img/mymc.png)
+* Link to your servers shop
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? Open an issue or send us a message on [https://xtrada.nl/en/bug-report] (http://xtrada.nl/en/bug-report)
+Have a bug or an issue with this template? Open an issue or send us a message on [https://xtrada.nl/en/bug-report](http://xtrada.nl/en/bug-report)
 
 ## Creator
 
-MyMC is maintained by **Rody Molenaar** from [Xtrada Nederland] (https://xtrada.nl/en/).
+MyMC is maintained by **Rody Molenaar** from [Xtrada Nederland](https://xtrada.nl/en/).
 
-* https://twitter.com/rodymolenaar
-* https://github.com/rodymol123
+* [Twitter](https://twitter.com/rodymolenaar)
+* [GitHub](https://github.com/rodymol123)
 
-Follow [@XtradaNL] (https://twitter.com/XtradaNL) for more cool themes and templates!
+Follow [@XtradaNL](https://twitter.com/XtradaNL) for more cool themes and templates!
 
 
 ## Copyright and License
