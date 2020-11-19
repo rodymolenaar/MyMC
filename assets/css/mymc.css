@@ -343,6 +343,14 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #fff;
   font-size: 15px;
 }
+.staff-text{
+  color: #000000;
+  font-size: 15px;
+}
+.staff-text span{
+  color: #000000;
+  font-size: 15px;
+}
 .carousel-inner > .item > iframe{
   display: block;
   max-width: 100%;
